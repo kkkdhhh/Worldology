@@ -194,8 +194,8 @@ plugins:
     enabled: true
     options:
       links:
-        GitHub: https://github.com/jackyzha0/quartz
-        Discord Community: https://discord.gg/cRFFHYye7t
+        GitHub: https://github.com/kkkdhhh/Worldology
+        instagram: https://www.instagram.com/kkk_d_hhh/
     layout:
       position: footer
       priority: 50
