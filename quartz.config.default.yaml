@@ -1,6 +1,6 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Quartz 5
+  pageTitle: 세계관 제작 일지
   pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
@@ -8,7 +8,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: quartz.jzhao.xyz
+  baseUrl: worldology.pages.dev
   ignorePatterns:
     - private
     - templates
