@@ -7,7 +7,7 @@ configuration:
   prefetch: viewport
   analytics:
     provider: plausible
-  locale: en-US
+  locale: ko-KR
   baseUrl: worldology.pages.dev
   ignorePatterns:
     - private
