@@ -1,7 +1,9 @@
 ---
 title: 블로그 소개
+description: 블로그 홈
+tags:
+date:
 ---
-
 
 직접 만든 여러 체계들을 정리하는 블로그
 
