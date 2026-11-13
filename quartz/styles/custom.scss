@@ -1,3 +1,18 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+.world-notes .serif-text {
+    font-family: "DohyunScript", monospace;
+}
+
+@font-face {
+    font-family: "DohyunScript";
+    src: url("static/fonts/DohyunScriptFinalV8.ttf") format("ttf");
+    font-style: normal;
+    font-weight: 400;
+    font-display: swap;
+}
+
+.world-notes .serif-text {
+    font-family: "DohyunScript", sans-serif;
+}
