@@ -1,18 +1,16 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
-.world-notes .serif-text {
-    font-family: "DohyunScript", monospace;
-}
-
+// 사용자 정의 폰트
 @font-face {
     font-family: "DohyunScript";
-    src: url("static/fonts/DohyunScriptFinalV8.ttf") format("truetype");
+    src: url("/static/fonts/DohyunScriptFinalV8.ttf") format("truetype");
+    font-weight: normal;
     font-style: normal;
-    font-weight: 400;
-    font-display: swap;
 }
 
+// 세계관 문서에 폰트 적용
 .world-notes .serif-text {
     font-family: "DohyunScript", sans-serif;
+    font-size: 24px;
+    line-height: 1.5;
 }
