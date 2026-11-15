@@ -3,7 +3,7 @@
 // 사용자 정의 폰트
 @font-face {
     font-family: "dohyunscript";
-    src: url("/static/fonts/DohyunScriptFinal.ttf") format("truetype");
+    src: url("/static/fonts/DohyunScriptFinal.ttf?metrics=800-200-20261116") format("truetype");
 }
 
 // 세계관 문서에 폰트 적용
@@ -12,6 +12,6 @@
     font-size: 56px;
     line-height: 1.0;
 
-    position: relative;
-    top: 10px; // 글자를 아래로 10px 이동
+    display: inline-block;
+    vertical-align: middle;
 }
