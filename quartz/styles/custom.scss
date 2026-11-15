@@ -2,13 +2,13 @@
 
 // 사용자 정의 폰트
 @font-face {
-    font-family: "DohyunScript";
+    font-family: "dohyunscript";
     src: url("/static/fonts/DohyunScriptFinal.ttf") format("truetype");
 }
 
 // 세계관 문서에 폰트 적용
 .world-notes .serif-text {
-    font-family: "DohyunScript", sans-serif;
+    font-family: "dohyunscript", sans-serif;
     font-size: 56px;
     line-height: 1.5;
 
