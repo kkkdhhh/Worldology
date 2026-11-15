@@ -10,5 +10,8 @@
 .world-notes .serif-text {
     font-family: "DohyunScript", sans-serif;
     font-size: 45px;
-    line-height: 1.0;
+    line-height: 1.5;
+
+    position: relative;
+    top: 10px; // 글자를 아래로 10px 이동
 }
